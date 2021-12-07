@@ -5,9 +5,8 @@
 
 <p align="center">
     Plethori's smart contracts security audits.
-    <ol>
-        <li>PLE Staking V2.0</li>
-        <li></li>
-    </ol>  
+    </ br>
+    </ br>
+    1. PLE Staking V2.0> 
 </p>
 </div>
