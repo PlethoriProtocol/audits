@@ -7,6 +7,6 @@
     Plethori's smart contracts security audits.
     </br>
     </br>
-    1. PLE Staking V2.0>
+    1. PLE Staking V2.0
 </p>
 </div>
