@@ -10,5 +10,7 @@
     1. PLE Token V2.0
     </br>
     2. PLE Staking V2.0
+    </br>
+    3. PLE ETH/AVAX Bridge
 </p>
 </div>
