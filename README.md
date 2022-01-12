@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.plethori.com/">
-    <img src="https://www.plethori.com/wp-content/uploads/elementor/thumbs/plethori-brandmark-1-pb5qv77b3xiyisi05yp7dlthji1lhx4v8wf4mk3ojs.png" alt="Logo">
+    <img src="https://github.com/PlethoriProtocol/audits/blob/main/logo.png?raw=true" alt="Logo" width="300">
   </a>
 
 <p align="center">
